@@ -1,0 +1,22 @@
+{
+  "name": "webdriverio-getting-started",
+  "version": "1.0.0",
+  "description": "A cool automation framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josdem/webdriverio-getting-started.git"
+  },
+  "keywords": [
+    "webdriverio"
+  ],
+  "author": "josdem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josdem/webdriverio-getting-started/issues"
+  },
+  "homepage": "https://github.com/josdem/webdriverio-getting-started#readme"
+}
